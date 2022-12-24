@@ -1,0 +1,100 @@
+Stachi's PVP Pack - hergestellt von Stachi
+
+-----------------------------------
+
+ÄNDERUNGEN
+
+-----------------------------------
+
+[V.1.0]
+
+- Veröffentlichung
+
+-----------------------------------
+
+[V.1.1]
+
+- Neues Design für Buttons (Knöpfe)
+- Blaues Diamantschwert
+- Blauer Bogen
+- Bogen "Bereit-Zum-Schießen"-Funktion (ROT-GELB-GRÜN)
+- Blaue Pfeile
+- Geänderter Hintergrund im Menü (blau getönt)
+
+-----------------------------------
+
+[V.1.2]
+
+- Neues Icon (mit Versionsanzeige)
+- Wasser hellblau
+- Dunkelblaue Diamant Items
+- Dunkelblaue Diamant Rüstung
+
+
+-----------------------------------
+
+[V.1.3]
+- Dunkelblauer Diamant Block
+- Dunkelblaues Diamant Erz
+- Blaue Feueranimation
+- Niedrige Feuer-Effekt-Partikel (blau) (BetterView)
+
+
+-----------------------------------
+
+[V.1.4]
+- Blauer Pfeil (Serverchange, Ressourcepackchange, GUI)
+- Server / Ressourcepack Standardbild in blauer Farbe
+- Blaue Karte
+- Neue Sprüche im Menü
+- Blaue Partikel
+- Blaue Fackel
+- Blauer Pfeil (Fliegenanimation)
+- Blaue Erfahrungsflasche + Orb
+- Blaues END-Biome
+- Hellblauer Regen
+- Blauer Minecraft Text im Startbildschirm
+- Blaue Angelrute
+- Blaues Portal
+- Blaue Hintergrundbilder im Startbildschirm
+- Kürbissicht entfernt für bessere Sicht (BetterView)
+
+
+-----------------------------------
+
+[V.1.5]
+- Bewegendes Gras & Blätter
+- Mehr Sprüche im Menü (+F3 Shortcuts)
+- Neue Ressource Pack Beschreibung
+- Neues Wasserdesign (Animation)
+- Entfernt Unterwasser-Overlay für eine übersichtliche, bessere Sicht! (BetterView)
+- Neuer Ladehintergrund mit Stachi-Panzer
+- Korrektur der Menübuttons
+
+
+-----------------------------------
+
+[V1.6]
+- Neuer Pfeil (Redesign)
+- Neuer Bogen (Redesign)
+- Neue Schwerter
+
+
+-----------------------------------
+
+[V1.7] [Minecraft 1.8.8]
+- Bogen (Redesign)
+- Pfeil (Redesign)
+- Gereinigtes Glas
+- Gereinigte Glasscheibe
+- Neuer Ziegelstein
+- Neuer Glowstone-Block
+- Animationen hinzugefügt:
+	- Diamant-Erz
+	- Fisch
+	- Lavabucket
+- Noob Skins für Steve und Alex Skins
+
+-----------------------------------
+
+[V1.8]

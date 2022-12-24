@@ -1,0 +1,31 @@
+
+language.name=English
+language.region=US
+language.code=en_US
+
+container.inventory=§bInventory
+container.hopper=§bItem Hopper
+container.crafting=§bCrafting
+container.dispenser=§bDispenser
+container.dropper=§bDropper
+container.furnace=§bFurnace
+container.enchant=§bEnchant
+container.brewing=§bBrewing Stand
+container.chest=§bChest
+container.chestDouble=§bLarge Chest
+container.minecart=§bMinecart
+container.enderchest=§bEnder Chest
+container.beacon=§bBeacon
+container.repair=§bAnvil
+
+entity.Villager.farmer=§bFarmer
+entity.Villager.fisherman=§bFisherman
+entity.Villager.shepherd=§bShepherd
+entity.Villager.fletcher=§bFletcher
+entity.Villager.librarian=§bLibrarian
+entity.Villager.cleric=§bCleric
+entity.Villager.armor=§bArmorer
+entity.Villager.weapon=§bWeapon Smith
+entity.Villager.tool=§bTool Smith
+entity.Villager.butcher=§bButcher
+entity.Villager.leather=§bLeatherworker

@@ -1,0 +1,103 @@
+
+
+Stachi's PVP Pack - made by Stachi
+
+-----------------------------------
+
+CHANGES
+
+-----------------------------------
+
+[v.1.0]
+
+- Release
+
+-----------------------------------
+
+[v.1.1]
+
+- Bigger Blue Underline Buttons
+- Blue Colored Diamond Sword
+- Blue Colored Bow
+- Bow Ready Function (RED-YELLOW-GREEN)
+- Blue Colored Arrows
+- Changed Background in Default (Blue)
+
+-----------------------------------
+
+[v.1.2]
+
+- New Icon (with Version Display)
+- Cyan Water Color
+- DarkBlue Diamond Items
+- DarkBlue Diamond Armor
+
+
+-----------------------------------
+
+[v.1.3]
+- DarkBlue Diamond Block
+- DarkBlue Diamond Ore
+- Blue Fire Animation
+- Lower Fire Effect Particles (Blue) (BetterView)
+
+
+-----------------------------------
+
+[v.1.4]
+- Blue Arrow (Serverchange, Ressourcepackchange, GUI)
+- Server/Ressourcepack Default Picture in Blue Color
+- Blue Map
+- New Splashes
+- Blue Particles
+- Blue Torch
+- Blue Arrow (Flying)
+- Blue Experience Bottle + Orb
+- Blue END-Biome
+- Cyan Rain
+- Blue Minecraft Text in Startup-Screen
+- Blue Book-Buttons
+- Blue Fishing Rod
+- Blue Portal
+- Blue Colored Background Pictures in Startup-Screen
+- Replace Pumpkin View in Transparent with blue Outlining
+
+
+-----------------------------------
+
+[v.1.5]
+- Moving Grass & Leaves
+- More Splashes (F3 Shortcuts)
+- New Ressource Pack Description (Colored Big Text)
+- ReDesigned Water
+- Removed Underwater-Overlay for a clear, better view!
+- New Menu Background with Stachi
+- Correction of Buttons
+
+
+-----------------------------------
+
+[v1.6]
+- New Arrow-Remake
+- New Bow-Remake
+- New Swords
+
+
+-----------------------------------
+
+[v1.7][Minecraft 1.8.8]
+- Bow Redesign
+- Arrow Redesign
+- Cleared Glas
+- Cleared Glas Pane
+- New Brick
+- New Glowstone-Block
+- Animation:
+	- Diamant-Ore
+	- Fish
+	- Lavabucket
+- Noob Skins for Steve and Alex Skins
+
+-----------------------------------
+
+[v1.8]

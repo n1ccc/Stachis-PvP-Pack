@@ -1,0 +1,26 @@
+ToDo:
+[v.1.9.2]
+Compatiblity Minecraft v.1.9.2
+
+[v.Future]
+- Fix: Beacon
+- Zaubericons animated
+- Animation:
+	- Diamantblock
+	- Golderz
+	- Smaragderz
+	- Goldblock
+	- Eisenblock
+	- Smaragd
+	- Eis
+	- Packeis
+	- Zaubertisch Spiralenanimation
+	- Diamant
+	- Gold
+	- Eisen
+	- Feuer rot/blau Redesign
+	- Wassereimer
+	- Diaschwert
+	- Eisenschwert
+	- Goldschwert
+	- Blumen
