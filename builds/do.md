@@ -1,6 +1,8 @@
 ToDo:
-[v.1.9.2]
-Compatiblity Minecraft v.1.9.2
+[v.1.20.4]
+- Compatiblity Minecraft v.1.20.4 [ ]
+- Github Push [X]
+- Renew changes [X]
 
 [v.Future]
 - Fix: Beacon
