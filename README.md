@@ -2,7 +2,7 @@
 > Stachi's PvP Pack
 
 ## Compatibility
-Minecraft Version 1.19.2
+Minecraft Version 1.20.4
 
 ## Download and Installation
 > 1. Download the latest ressource pack from [here](.builds/Stachi's PvP Pack 1.9.2.zip)
