@@ -15,10 +15,8 @@ Do not unzip the archive!
 > Done!
 
 ## Features
-> Unterstützte Discord-Befehle
-###### Admin Commands
+###### #TODO
 ```
-/act  Status angeben
 ```
 
 ## Changes
