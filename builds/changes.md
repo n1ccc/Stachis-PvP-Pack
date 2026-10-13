@@ -1,7 +1,31 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
-###### 1.20.4 [Minecraft 1.20.4]
+###### 1.20.4 [Minecraft 1.20.4] - 2026-10-13
+
+```
+- Full port to Minecraft 1.20.4 (pack_format 22): all textures renamed/moved to the new paths
+- GUI rebuilt on the new vanilla layouts in the Stachi style (transparent, blue slot outlines, cyan hotbar row)
+	- Inventory with offhand slot, brewing stand with fuel slot, coil and fuel capsule
+	- Beacon with 4th payment icon, crisp symbols, outlined pyramids
+	- Enchanting table: grey translucent middle part, blue level icons
+	- Anvil: blue hammer, blue X, translucent text fields
+	- Horse/llama slots with translucent blue symbols, villager trading screen
+	- New in Stachi style: blast furnace, smoker, shulker box
+- Furnace: fuel bar blue -> green, progress as real arrow with blue fade (also blast furnace + smoker)
+- HUD: blue tinted hotbar + offhand, darker blue hearts, blue XP bar
+- Status effect icons in Stachi blue (Strength/Weakness made from Stachi's diamond sword, Resistance = blue shield with Stachi)
+- Nether portal with Stachis drifting from top right to bottom left
+- End portal with Stachi shells in the star field
+- More shine for diamond block and diamond
+- Water now uses the biome water color (greyscale like vanilla)
+- Menu: night panorama with stars, dark blue menu background with Stachis
+- Loading screen: Mojang Studios logo with Stachi next to "Studios"
+- Pack icon with version 1.20.4, copyright 2016-2026
+- Removed unused files (old backups, unchanged vanilla textures)
+```
+
+###### 1.20.4-pre [Minecraft 1.20.4]
 
 ```
 - Github Push: Please report any issues over Github!

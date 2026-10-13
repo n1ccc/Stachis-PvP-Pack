@@ -1,7 +1,31 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
-###### 1.20.4 [Minecraft 1.20.4]
+###### 1.20.4 [Minecraft 1.20.4] - 2026-10-13
+
+```
+- Kompletter Port auf Minecraft 1.20.4 (pack_format 22): alle Texturen auf die neuen Pfade umgestellt
+- GUIs auf den neuen Vanilla-Layouts im Stachi-Stil nachgebaut (transparent, blaue Slot-Rahmen, cyan Hotbar-Reihe)
+	- Inventar mit Offhand-Slot, Braustand mit Brennstoff-Slot, Spirale und Brennstoff-Kapsel
+	- Leuchtfeuer mit 4. Bezahl-Symbol, scharfe Symbole, Pyramiden mit Kontur
+	- Zaubertisch: grauer halbtransparenter Mittelteil, blaue Level-Icons
+	- Amboss: blauer Hammer, blaues X, halbtransparente Textfelder
+	- Pferd/Lama-Slots mit halbtransparenten blauen Symbolen, Handelsfenster
+	- Neu im Stachi-Stil: Schmelzofen, Räucherofen, Shulkerkiste
+- Ofen: Brennstoffbalken blau -> grün, Fortschritt als echter Pfeil mit Blauverlauf (auch Schmelz-/Räucherofen)
+- HUD: blau eingefärbte Hotbar + Offhand, dunkelblaue Herzen, blaue XP-Leiste
+- Effekt-Icons in Stachi-Blau (Stärke/Schwäche aus Stachis Diamantschwert, Resistenz = blaues Schild mit Stachi)
+- Netherportal mit Stachis, die von oben rechts nach unten links wandern
+- Endportal mit Stachi-Panzern im Sternenfeld
+- Mehr Glanz für Diamantblock und Diamant
+- Wasser nutzt jetzt die Biom-Wasserfarbe (Graustufen wie Vanilla)
+- Menü: Nacht-Panorama mit Sternen, dunkelblauer Menü-Hintergrund mit Stachis
+- Ladebildschirm: Mojang-Studios-Logo mit Stachi neben „Studios“
+- Pack-Icon mit Version 1.20.4, Copyright 2016-2026
+- Ungenutzte Dateien entfernt (alte Backups, unveränderte Vanilla-Texturen)
+```
+
+###### 1.20.4-pre [Minecraft 1.20.4]
 
 ```
 - Code auf Github hochgeladen: Bitte Probleme über Github melden!
