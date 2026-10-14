@@ -5,7 +5,8 @@ ToDo:
 - Renew changes [X]
 
 [v.26.3]
-- Port auf Minecraft 26.3 (eigene Branch) [ ]
+- Port auf Minecraft 26.3 (eigene Branch) [X]
+- Github Push [ ]
 
 [v.Future]
 - Fix: Beacon [X] (1.20.4: Symbole + Pyramiden, Buttons Vanilla)

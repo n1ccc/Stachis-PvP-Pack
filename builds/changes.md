@@ -1,6 +1,22 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
+###### 26.3 [Minecraft 26.3] - 2026-10-14
+
+```
+- Port to Minecraft 26.3 (resource pack version 97.1, min_format/max_format)
+- Moved to the new paths: end portal, experience orb, diamond armor (equipment folder)
+- Menu backgrounds: menu, list and in-game menus use the Stachi tile, Stachis tinted blue
+- Effect box in the inventory as one stretchable sprite (from the small Stachi box)
+- Horse/llama: blue slot frame and Stachi slot symbols as separate sprites
+- Brewing stand: bottle and blaze powder symbols in Stachi blue
+- Arrow: back side added for the new arrow model
+- Villager trading screen adjusted to the new layout
+- New: cyan slot hover highlight, tooltips in navy with a cyan-to-blue frame
+- Animated leaves keep the new vanilla mipmap setting
+- Pack icon with version 26.3
+```
+
 ###### 1.20.4 [Minecraft 1.20.4] - 2026-10-13
 
 ```

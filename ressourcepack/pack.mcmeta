@@ -1,6 +1,10 @@
 {
   "pack": {
-    "pack_format": 22,
-    "description": "\u00a71\u00a7lStachi's PvP Pack \u00a7b1.20.4\u00a7r\n2026-10-13"
+    "description": "\u00a71\u00a7lStachi's PvP Pack \u00a7b26.3\u00a7r\n2026-10-14",
+    "min_format": [
+      97,
+      1
+    ],
+    "max_format": 97
   }
 }

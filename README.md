@@ -4,11 +4,12 @@
 ## Compatibility
 | Pack | Minecraft | Download |
 |---|---|---|
+| 26.3 | 26.3 (resource pack version 97.1) | [Stachi's PvP Pack 26.3.zip](./builds/Stachi's%20PvP%20Pack%2026.3.zip) |
 | 1.20.4 | 1.20.3 – 1.20.4 (pack_format 22) | [Stachi's PvP Pack 1.20.4.zip](./builds/Stachi's%20PvP%20Pack%201.20.4.zip) |
 | v.1.7 | 1.8.x | [Stachi's PvP Pack v.1.7.zip](./builds/Stachi's%20PvP%20Pack%20v.1.7.zip) |
 
 ## Download and Installation
-> 1. Download the latest ressource pack from [here](./builds/Stachi's%20PvP%20Pack%201.20.4.zip)
+> 1. Download the latest ressource pack from [here](./builds/Stachi's%20PvP%20Pack%2026.3.zip)
 ```
 Do not unzip the archive!
 ```
@@ -25,6 +26,7 @@ Do not unzip the archive!
 - Nether portal with drifting Stachis, end portal with Stachi shells
 - Clear glass, no underwater overlay, transparent pumpkin view
 - Night menu panorama, Stachi menu background, Stachi loading screen
+- Cyan slot highlight and blue tooltips (26.3)
 - Blue container names and custom splashes (EN/DE)
 - 4x HD GUI textures
 
