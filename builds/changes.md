@@ -13,6 +13,9 @@
 - Hunger bar with dark blue outline, all boss bars blue
 - Blue widgets (checkbox, slider, text field, scroller, tabs), toasts, locator bar and separators
 - New in Stachi style: smithing table, grindstone, loom, cartography table, stonecutter, crafter, creative inventory
+- Menu background: dark blue with two subtle blue Stachis per tile
+- Creative inventory tabs transparent with blue outline, selected tab filled blue
+- Fix: lava bucket animation (was shown as missing texture since 1.20.4)
 - Pack icon with version 26.3.1
 ```
 

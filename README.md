@@ -29,6 +29,9 @@ Do not unzip the archive!
 - Stachi is the moon (deep blue, follows the moon phases) and some clouds are shaped like Stachi
 - Hunger bar with dark blue outline, blue boss bars
 - Blue widgets, toasts, locator bar and separators
+- Calmer dark blue menu background with subtle Stachis
+- Creative inventory tabs: transparent with blue outline, current tab filled blue
+- Fix: lava bucket texture
 - Smithing table, grindstone, loom, cartography table, stonecutter, crafter and creative inventory in the Stachi style
 
 ## Features

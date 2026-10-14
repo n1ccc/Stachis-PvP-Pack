@@ -13,6 +13,9 @@
 - Hungerleiste mit dunkelblauer Kontur, alle Bossleisten blau
 - Blaue Widgets (Checkbox, Slider, Textfeld, Scrollleiste, Tabs), Toasts, Locator-Bar und Trennlinien
 - Neu im Stachi-Stil: Schmiedetisch, Schleifstein, Webstuhl, Kartentisch, Steinsäge, Crafter, Kreativ-Inventar
+- Menü-Hintergrund: Dunkelblau mit zwei dezenten blauen Stachis pro Kachel
+- Kreativ-Reiter transparent mit blauer Umrandung, ausgewählter Reiter blau gefüllt
+- Fix: Lavaeimer-Animation (wurde seit 1.20.4 als fehlende Textur angezeigt)
 - Pack-Icon mit Version 26.3.1
 ```
 
