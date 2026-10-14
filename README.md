@@ -4,6 +4,7 @@
 ## Compatibility
 | Pack | Minecraft | Download |
 |---|---|---|
+| 26.3.1 | 26.3 (resource pack version 97.1) | [Stachi's PvP Pack 26.3.1.zip](./builds/Stachi's%20PvP%20Pack%2026.3.1.zip) |
 | 26.3 | 26.3 (resource pack version 97.1) | [Stachi's PvP Pack 26.3.zip](./builds/Stachi's%20PvP%20Pack%2026.3.zip) |
 | 1.20.4 | 1.20.3 – 1.20.4 (pack_format 22) | [Stachi's PvP Pack 1.20.4.zip](./builds/Stachi's%20PvP%20Pack%201.20.4.zip) |
 | v.1.7 | 1.8.x | [Stachi's PvP Pack v.1.7.zip](./builds/Stachi's%20PvP%20Pack%20v.1.7.zip) |
@@ -11,7 +12,7 @@
 > Older 1.8 versions (v.1.0 - v.1.6) are in the [builds](./builds) folder.
 
 ## Download and Installation
-> 1. Download the resource pack for your Minecraft version from the table above (latest: [26.3](./builds/Stachi's%20PvP%20Pack%2026.3.zip))
+> 1. Download the resource pack for your Minecraft version from the table above (latest: [26.3.1](./builds/Stachi's%20PvP%20Pack%2026.3.1.zip))
 ```
 Do not unzip the archive!
 ```
@@ -20,8 +21,18 @@ Do not unzip the archive!
 > 4. Now activate it in the Minecraft resource pack screen
 > Done!
 
+## What's new in 26.3.1
+- Blue enchantment glint on items and armor
+- Cyan crosshair and attack indicator
+- Shield and totem of undying as blue Stachi - the totem pops up as a big Stachi
+- Blue elytra and ender pearl, mace with a blue head
+- Stachi is the moon (deep blue, follows the moon phases) and some clouds are shaped like Stachi
+- Hunger bar with dark blue outline, blue boss bars
+- Blue widgets, toasts, locator bar and separators
+- Smithing table, grindstone, loom, cartography table, stonecutter, crafter and creative inventory in the Stachi style
+
 ## Features
-- Blue Stachi GUI: transparent containers with blue slot outlines and a cyan hotbar row (inventory, chests, furnaces, brewing stand, enchanting table, anvil, beacon, horse, villager, shulker box), slot symbols in Stachi blue
+- Blue Stachi GUI: transparent containers with blue slot outlines and a cyan hotbar row (inventory, chests, furnaces, brewing stand, enchanting table, anvil, beacon, horse, villager, shulker box, smithing table, grindstone, loom, cartography table, stonecutter, crafter, creative inventory), slot symbols in Stachi blue
 - Blue HUD: hotbar, hearts, XP bar, buttons, status effect icons
 - Blue diamond items, tools and armor with extra shine, blue swords, bow with ready indicator (red - yellow - green)
 - Animated diamond ore, grass, leaves, lava bucket and fish
@@ -29,6 +40,7 @@ Do not unzip the archive!
 - Clear glass, no underwater overlay, transparent pumpkin view
 - Night menu panorama, Stachi menu background (blue Stachis, also in lists and in-game menus), Stachi loading screen
 - Cyan slot highlight and navy tooltips with a cyan-to-blue frame (26.3)
+- Blue enchantment glint, Stachi shield, Stachi totem, Stachi moon and Stachi clouds (26.3.1)
 - Blue container names and custom splashes (EN/DE)
 - 4x HD GUI textures
 

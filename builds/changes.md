@@ -1,6 +1,21 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
+###### 26.3.1 [Minecraft 26.3] - 2026-10-14
+
+```
+- Blue enchantment glint (items + armor)
+- Cyan crosshair, attack indicator with cyan blade
+- Shield and totem of undying as blue Stachi (totem with blue rim - also shown when it pops)
+- Blue elytra, blue ender pearl, mace with blue head
+- Moon: deep blue, Stachi is the moon (waxes and wanes with the moon phases)
+- Clouds with a few Stachi-shaped clouds
+- Hunger bar with dark blue outline, all boss bars blue
+- Blue widgets (checkbox, slider, text field, scroller, tabs), toasts, locator bar and separators
+- New in Stachi style: smithing table, grindstone, loom, cartography table, stonecutter, crafter, creative inventory
+- Pack icon with version 26.3.1
+```
+
 ###### 26.3 [Minecraft 26.3] - 2026-10-14
 
 ```

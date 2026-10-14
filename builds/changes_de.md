@@ -1,6 +1,21 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
+###### 26.3.1 [Minecraft 26.3] - 2026-10-14
+
+```
+- Blauer Verzauberungs-Glanz (Items + Rüstung)
+- Cyan Fadenkreuz, Angriffsanzeige mit cyan Klinge
+- Schild und Totem als blauer Stachi (Totem mit blauem Rand – auch beim Auslösen groß im Bild)
+- Blaue Elytra, blaue Ender-Perle, Streitkolben mit blauem Kopf
+- Mond: kräftig blau, Stachi ist der Mond (nimmt mit den Mondphasen zu und ab)
+- Wolken mit ein paar Wolken in Stachi-Form
+- Hungerleiste mit dunkelblauer Kontur, alle Bossleisten blau
+- Blaue Widgets (Checkbox, Slider, Textfeld, Scrollleiste, Tabs), Toasts, Locator-Bar und Trennlinien
+- Neu im Stachi-Stil: Schmiedetisch, Schleifstein, Webstuhl, Kartentisch, Steinsäge, Crafter, Kreativ-Inventar
+- Pack-Icon mit Version 26.3.1
+```
+
 ###### 26.3 [Minecraft 26.3] - 2026-10-14
 
 ```
