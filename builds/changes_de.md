@@ -1,6 +1,22 @@
 ## Changes
 > Stachi's PVP Pack - made by Stachi
 
+###### 26.3 [Minecraft 26.3] - 2026-10-14
+
+```
+- Port auf Minecraft 26.3 (Resource-Pack-Version 97.1, min_format/max_format)
+- Auf die neuen Pfade verschoben: Endportal, XP-Kugel, Diamant-Rüstung (equipment-Ordner)
+- Menü-Hintergründe: Menü, Listen und Ingame-Menüs nutzen die Stachi-Kachel, Stachis blau eingefärbt
+- Effekt-Kasten im Inventar als ein dehnbares Sprite (aus dem kleinen Stachi-Kasten)
+- Pferd/Lama: blauer Slot-Rahmen und Stachi-Slot-Symbole als eigene Sprites
+- Braustand: Flaschen- und Lohenstaub-Symbol in Stachi-Blau
+- Pfeil: Rückseite für das neue Pfeil-Modell ergänzt
+- Handelsfenster an den neuen Aufbau angepasst
+- Neu: cyan Slot-Markierung beim Drüberfahren, Tooltips in Navy mit Rahmen von Cyan nach Blau
+- Animierte Blätter behalten die neue Vanilla-Mipmap-Einstellung
+- Pack-Icon mit Version 26.3
+```
+
 ###### 1.20.4 [Minecraft 1.20.4] - 2026-10-13
 
 ```
